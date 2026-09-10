@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /go/
 Allow: /
 Sitemap: https://col955.com/sitemap.xml
